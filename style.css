@@ -1,0 +1,31 @@
+body{
+    background-color: purple;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    height: 100%;
+    text-align: center;
+}
+
+button{
+    width: 90px;
+    height: 60px;
+    font-size: 50px;
+    background-color: green;
+    color: black;
+    
+    
+}
+
+button:hover{
+    background-color: greenyellow;
+    color:grey;
+}
+
+.counter{
+    text-align: center;
+    margin-top: 30%;
+}
